@@ -1,0 +1,16 @@
+{% assign baseurl = site.baseurl %}{% if page.paginator %} {% assign paginator =
+page.paginator %} {% assign baseurl = '' %}{% endif %} {% if
+paginator.total_pages > 1 %}
+<div class="d-flex justify-content-center">
+  <div class="pagination">
+    {% if paginator.previous_page %}
+    <a href="{{ baseurl }}{{ paginator.previous_page_path }}"
+      ><span aria-hidden="true">&larr;</span> Newer</a
+    >{% endif %} {% if paginator.next_page %}<a
+      href="{{ baseurl }}{{ paginator.next_page_path }}"
+      >Older <span aria-hidden="true">&rarr;</span></a
+    >
+    {% endif %}
+  </div>
+</div>
+{% endif %}
