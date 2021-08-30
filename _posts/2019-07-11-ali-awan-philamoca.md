@@ -5,8 +5,8 @@ date: 2019-07-11
 categories: [Live Sessions]
 image: ali.jpg
 author: Harry Herskowitz
-author_blurb: Harry is a web developer and programmer with a focus on using technology to empower local artists and communities
-author_link: https://github.com/roldyclark
+author_blurb: Harry is the founder of Tapedrop. He makes films and music under the alias Roldy Clark.
+author_link: http://roldyclark.com/
 avatar: roldy.png
 ---
 

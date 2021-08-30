@@ -5,8 +5,8 @@ date: 2019-03-06
 categories: [Live Sessions]
 image: chinacat.jpg
 author: Harry Herskowitz
-author_blurb: Harry is a web developer and programmer with a focus on using technology to empower local artists and communities
-author_link: https://github.com/roldyclark
+author_blurb: Harry is the founder of Tapedrop. He makes films and music under the alias Roldy Clark.
+author_link: http://roldyclark.com/
 avatar: roldy.png
 ---
 
