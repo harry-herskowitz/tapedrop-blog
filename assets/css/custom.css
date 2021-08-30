@@ -138,6 +138,13 @@ nav a {
   margin-bottom: 50px;
 }
 
+@media screen and (max-width: 700px) {
+  #author {
+    flex-direction: column;
+    text-align: center;
+  }
+}
+
 #post hr {
   margin-top: 5rem;
 }
@@ -168,11 +175,15 @@ a:hover {
 .hero-title h1 {
   font-size: 7rem;
   font-weight: bold;
+  font-family: 'Recoleta-Black';
 }
 
 @media screen and (max-width: 700px) {
   .hero-title h1 {
     font-size: 4rem;
+  }
+  .hero-tagline h3 {
+    font-size: 2rem;
   }
 }
 
@@ -183,6 +194,7 @@ a:hover {
 .postcard .post-title {
   font-size: 4rem;
   font-weight: bold;
+  font-family: 'Recoleta-Black';
 }
 
 @media screen and (max-width: 700px) {
@@ -192,20 +204,10 @@ a:hover {
 }
 
 .postcard-sm .post-title {
-  font-size: 3rem;
-  line-height: 2.35rem;
-}
-
-.postcard-sm .post-title {
   font-size: 2rem;
   font-weight: bold;
-}
-
-@media screen and (min-width: 1100px) {
-  #frontpage .postcard-sm:nth-child(2) .post-title,
-  #frontpage .postcard-sm:nth-child(n + 5):nth-child(-n + 7) .post-title {
-    font-size: 1.5rem;
-  }
+  line-height: 2.35rem;
+  font-family: 'Recoleta-Black';
 }
 
 .postcard .post-categories {
@@ -225,6 +227,7 @@ a:hover {
 #post .post-title h1 {
   font-weight: bold;
   margin-bottom: 0;
+  font-family: 'Recoleta-Black';
 }
 
 #post .post-categories {
