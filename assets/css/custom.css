@@ -145,6 +145,10 @@ nav a {
   }
 }
 
+#author img {
+  margin: 0;
+}
+
 #post hr {
   margin-top: 5rem;
 }
