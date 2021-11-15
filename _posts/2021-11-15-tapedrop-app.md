@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Introducing the Tapedrop App
-date: 2021-09-16
+date: 2021-11-15
 categories: [Articles]
 image: tapedrop-app.jpg
 author: Harry Herskowitz
