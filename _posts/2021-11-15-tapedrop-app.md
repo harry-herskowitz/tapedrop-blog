@@ -2,7 +2,7 @@
 layout: post
 title: Introducing the Tapedrop App
 date: 2021-11-15
-categories: [Articles]
+categories:
 image: tapedrop-app.jpg
 author: Harry Herskowitz
 author_blurb: Harry is the founder of Tapedrop. He makes films and music under the alias Roldy Clark.
