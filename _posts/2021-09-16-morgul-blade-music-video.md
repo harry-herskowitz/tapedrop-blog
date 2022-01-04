@@ -8,7 +8,6 @@ author: Harry Herskowitz
 author_blurb: Harry is the founder of Tapedrop. He makes films and music under the alias Roldy Clark.
 author_link: http://roldyclark.com/
 avatar: roldy.png
-featured: true
 hidden: true
 ---
 
