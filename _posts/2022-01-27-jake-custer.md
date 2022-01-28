@@ -12,7 +12,7 @@ avatar: roldy.png
 
 https://www.youtube.com/watch?v=lcr5mHc73Mg&lc=z22mhjkzqt22hj0mracdp432p0ffxu52beencmgh311w03c010c
 
-Connecticut based classic rocker, Jake Custer, dropped Pennsylvania Song this week. The title track on the two sided release is an ode to the mountains of Pennsylvania, where Jake vacations with his family. Jake took the opportunity to record dueling guitar solos on this track, effectively capturing the spirit of PA's wild wonders. Side B is a cover of I'm Not Your Stepping Stone, which was originally performed by Paul Revere & The Raiders. The release was mastered by Terry Manning, who has worked with ZZ Top, Led Zeppelin, Otis Redding and Big Star.
+Connecticut based classic rocker, Jake Custer, dropped Pennsylvania Song this week. The title song on the two sided release is an ode to the mountains of Pennsylvania, where Jake vacations with his family. Jake took the opportunity to record dueling guitar solos on this track, effectively capturing the spirit of PA's wild wonders. Side B is a cover of I'm Not Your Stepping Stone, which was originally performed by Paul Revere & The Raiders. The release was mastered by Terry Manning, who has worked with ZZ Top, Led Zeppelin, Otis Redding and Big Star.
 
 I've had the pleasure of playing music with Jake at his home studio. His walls are lined with classic guitars and basses, and his fully loaded pedal boards could only have been assembled by a true sound scientist. Jake told me about his humble beginnings in the world of music production:
 
@@ -22,4 +22,4 @@ Jake's biggest influences are apparent through his music. Classic rock of the 60
 
 Jake wanted to give a shoutout to his dad and mom for supporting his music dreams, his brothers for introducing him to music, his friends Logan, Paul, Mat, Scott, and Joss for helping however they can, and Terry Manning for sharing his expertise.
 
-The Pennsylvania Song is available now on all major streaming services. Check out his [Tapedrop Artist Card](https://app.tapedrop.com?artist=fQuYikmL0OSk3aoebBvuvJoT16u2) for links.
+Pennsylvania Song is available now on all major streaming services. Check out his [Tapedrop Artist Card](https://app.tapedrop.com?artist=fQuYikmL0OSk3aoebBvuvJoT16u2) for links.
