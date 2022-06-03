@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Nancy Whitaker - Words on the Tip of My Tongue
+title: Nancy Whitaker Drops Debut Single
 date: 2022-06-03
 categories: [Articles]
 image: nancy.jpg
@@ -29,7 +29,3 @@ Nancy Whitaker generally performs in the tri-state area with a live band consist
 Our Hallowed Pictures will be released on August 12th along with an album release show at Pianos NYC also on 8/12.
 
 Be sure to follow [Nancy Whitaker](https://www.instagram.com/nancy_whitaker_/) to stay up to date with new releases and show announcements!
-
-![band photo](/assets/images/posts/nancy.jpg)
-
-(Article Cover Photo by Sam Mitchell)
