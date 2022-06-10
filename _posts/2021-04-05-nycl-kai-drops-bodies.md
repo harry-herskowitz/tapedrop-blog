@@ -3,12 +3,11 @@ layout: post
 title: NYCL Kai drops "Bodies"
 date: 2021-04-05
 categories:
-image:
+image: nycl.png
 author: Sam Mitchell
 author_blurb: Live session director, videographer, editor, and staff writer for Tapedrop since 2019
 author_link: https://cutbysam.myportfolio.com/greetings
 avatar: sam.jpg
-hidden: true
 ---
 
 https://www.youtube.com/watch?v=vmedai0p95s
