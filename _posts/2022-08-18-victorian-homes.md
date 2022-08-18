@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Victorian Homes
+title: Victorian Homes Debut EP
 date: 2022-08-18
 categories: [Articles]
 image: victorian.jpg
@@ -14,11 +14,11 @@ avatar: sam.jpg
 
 It’s been a big summer for new indie tunes and projects, but standing out among them is the self-titled EP by Victorian Homes, the first solo project of Dimitri Almeyda created in 2018.
 
-‘This project started out of the need to make music for fun, to have no real rules to adhere to and no plans to try and make it as a profession. Just making art for the sake of art with great people,” Almeyda told Tapedrop.
+"This project started out of the need to make music for fun, to have no real rules to adhere to and no plans to try and make it as a profession. Just making art for the sake of art with great people," Almeyda told Tapedrop.
 
 We caught their breakout debut performance back in June at The Saint, one of Asbury's landmark venues. Almeyda proved an electric frontman. His authentic performance made for a cathartic show.
 
-“Something that makes this EP special to me, is the variety of tracks that we were able to comfortably fit into it,” said Almeyda.
+"Something that makes this EP special to me, is the variety of tracks that we were able to comfortably fit into it," said Almeyda.
 
 Hypnotic groove sections, layers of obscure textural sounds, and old vocal sample chops throughout the album bring home the introspective themes Almeyda sewed into each track, inviting the listeners to think about time and perception.
 
