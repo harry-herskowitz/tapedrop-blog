@@ -11,6 +11,8 @@ avatar: sam.jpg
 ---
 ![nancy qa](/assets/images/posts/nancyqa.jpg)
 
+"I love listening to music but I don't always get inspired as directly. I went to school for video editing and before I went all in with music I was making songs and kind of treating them as movies, like trying to make a psychedelic movie."
+
 Tonight I am sitting with Kevin McDaniel, creator and front man of Nancy Whitaker, who recently released his debut album, Our Hallowed Pictures. The album is cinematic and introspective, rich in synth textures and heavy hitting drums.
 
 Kevin sets the scene by recounting the making of the album's first track 'A Misunderstanding of Trust' back in 2019. His senior thesis was a music video for a song that had yet to be recorded. With the deadline quickly approaching,  Kevin sat alone at the seat of a grand piano in the theater of Fairleigh Dickinson University. In the empty theater, he played the hauntingly beautiful opening chords of Our Hallowed Pictures.
@@ -29,7 +31,7 @@ Outside on the driveway, we have a cigarette and a heavy hit of nostalgia as Kev
 
 KM: I remember getting Green Day’s American Idiot for my birthday whenever it came out. That was the first time I ever found music that I liked. Within that year I heard 'Day Tripper' by The Beatles. I was all about pop punk until I heard the Beatles and then from age 10 to now I’ve been obsessively diving into 60’s bands.
 
-Back upstairs, Kevin shows me his Beatles inspired track off the album, 'Just Enough', a dreamy song with a grooving bass line that carries us through colorful forests of guitar licks, plains of reverb and valleys of delay.
+Back upstairs, Kevin shows me his Beatles inspired track off the album, 'Just Enough', a dreamy headphone vibe with a grooving bass line that carries us through colorful forests of guitar licks, plains of reverb and valleys of delay.
 
 KM: I just remember I spent so long recording the bass on this song.
 
@@ -39,7 +41,7 @@ KM: I couldn't get the bass to sound right. And then I decided, ‘Fuck it, I’
 
 SM: What was your favorite lyric?
 
-KM: The first line, ‘we’ve sold our days goodbye in hallowed little pictures where faces hide.’ The album title is a reference to the song. It's saying, you're not actually seeing anybody. You just see what they’re presenting you.
+KM: The first line, ‘we’ve sold our days goodbye in hallowed little pictures where a face can hide.’ The album title is a reference to the song. It's saying, you're not actually seeing anybody. You just see what they’re presenting you.
 
 SM: That kinda makes me wonder about why you chose the name. I mean, as a twenty-something guy, why did you choose an old woman's name for the project?
 
