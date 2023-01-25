@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Discover Local Music with the Tapedrop App
+title: Introducing the Tapedrop App
 date: 2022-01-01
 categories:
 image: tapedrop-app-card.jpg
