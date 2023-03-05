@@ -4,8 +4,8 @@ title: ‘Drugstore Cowboy’ Sophomore Album by Your Pals, Dominy
 date: 2019-06-25
 categories: [Articles]
 image: dominy-drugstore.jpg
-author: Harry Herskowitz
-author_blurb: Harry is the founder of Tapedrop. He makes films and music under the alias Roldy Clark.
+author: Roldy Clark
+author_blurb: Roldy is the founder of Tapedrop. He also makes his own films and music.
 author_link: http://roldyclark.com/
 avatar: roldy.png
 ---

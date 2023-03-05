@@ -4,8 +4,8 @@ title: Morgul Blade - A Last Waltz of Gevaudan
 date: 2021-09-16
 categories: [Articles]
 image: morgul_blade_video.jpg
-author: Harry Herskowitz
-author_blurb: Harry is the founder of Tapedrop. He makes films and music under the alias Roldy Clark.
+author: Roldy Clark
+author_blurb: Roldy is the founder of Tapedrop. He also makes his own films and music.
 author_link: http://roldyclark.com/
 avatar: roldy.png
 ---
